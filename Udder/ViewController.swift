@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         // This is a comment.
     }
+    
+    override func viewDidLayoutSubviews() {
+        //text
+    }
 
 }
 
